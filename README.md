@@ -4,6 +4,13 @@
 
 Este proyecto partió con la idea de hacer una tienda virtual que nunca vio la luz, donde se alcanzó a hacer esta traducción, la cual quisimos dejar a disposición de quienes la encuentren útil.
 
+## ¡¡ACTUALIZACIÓN!! 3.0.3.6+
+
+Traducción al 99,9%; Esto porque se me puede haber pasado alguna que otra línea/palabra sin traducir.
+
+La traducción, en su mayor parte, fue tomada desde la traducción del grupo "Burbuja" (con alguna que otra corrección mía), así que, ¡muchas gracias a ellos! El resto de la traducción fue hecha por mí (@ignacio.r_28)
+Iré actualizando las traducciones de acuerdo al contexto de cada cosa y no queden tan "literal" y en muchas ocasiones hasta sin sentido.
+
 ## Instrucciones de instalación
 
  1. Se debe descargar la última versión de OpenCart, junto a la versión correspondiente de esta traducción.
