@@ -25,4 +25,4 @@ $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el directori
 $_['error_path']       = 'Aviso: ¡La ruta no es válida!';
 $_['error_directory']  = 'Aviso: ¡Directorio no válido!';
 $_['error_exists']     = 'Aviso: ¡El directorio ya existe!';
-$_['error_writable']   = 'Advertencia: ¡Se necesita que config.php y admin/config.php se puedan escribir!';
+$_['error_writable']   = 'Aviso: ¡Se necesita que config.php y admin/config.php se puedan escribir!';

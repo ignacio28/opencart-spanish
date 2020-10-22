@@ -5,11 +5,11 @@ $_['heading_title']               = 'Instalación completa';
 // Text
 $_['text_step_4']                 = '¡Listo para comenzar a vender!';
 $_['text_catalog']                = 'Ir a tu tienda en línea';
-$_['text_admin']                  = 'Inicia sesión en la administración';
+$_['text_admin']                  = 'Inicia sesión en como administración';
 $_['text_extension']              = 'Visita la tienda de extensiones';
 $_['text_mail']                   = 'Únete a la lista de correo';
 $_['text_mail_description']       = 'Mantente informado sobre las actualizaciones y eventos de OpenCart.';
-$_['text_facebook']               = 'Danos me gusta en Facebook';
+$_['text_facebook']               = 'Danos "Me gusta" en Facebook';
 $_['text_facebook_description']   = '¡Dinos cuánto te gusta OpenCart!';
 $_['text_facebook_visit']         = 'Visita nuestra página en Facebook';
 $_['text_forum']                  = 'Foros de la comunidad';
