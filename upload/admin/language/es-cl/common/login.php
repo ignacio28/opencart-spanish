@@ -16,4 +16,4 @@ $_['button_login']   = 'Iniciar sesión';
 
 // Error
 $_['error_login']    = 'No se encontró coincidencia para el Usuario y/o Contraseña.';
-$_['error_token']    = 'El Token de la sesión es inválido. Por favor, inicia sesión nuevamente.';
+$_['error_token']    = 'La sesión expiró. Por favor, inicia sesión nuevamente.';
