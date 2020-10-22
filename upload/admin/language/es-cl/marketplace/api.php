@@ -1,10 +1,16 @@
 <?php
+// Heading
+$_['heading_title']    = 'API de mercado de OpenCart';
 
-$_['heading_title'] = 'API de mercado de OpenCart';
-$_['text_success'] = 'Éxito: ¡Has modificado tu información de la API!';
-$_['text_signup'] = 'Please enter your OpenCart API information which you can obtain <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">here</a>.';
-$_['entry_username'] = 'Nombre de usuario';
-$_['entry_secret'] = 'Secreto';
+// Text
+$_['text_success']     = 'Éxito: ¡Has modificado tu información de la API!';
+$_['text_signup']      = 'Ingrese la información de la API de OpenCart que puede obtener <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">aquí</a>.';
+
+// Entry
+$_['entry_username']   = 'Nombre de usuario';
+$_['entry_secret']     = 'Secreto';
+
+// Error
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar la API del mercado!';
-$_['error_username'] = '¡Se requiere el nombre de usuario!';
-$_['error_secret'] = '¡Se requiere el secreto!';
+$_['error_username']   = '¡Se requiere el nombre de usuario!';
+$_['error_secret']     = '¡Se requiere el secreto!';

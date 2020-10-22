@@ -1,7 +1,8 @@
 <?php
-
+// Heading
 $_['heading_title'] = '¡Tu cuenta ha sido creada!';
-$_['text_message'] = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this online shop, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account'] = 'Cuenta';
-$_['text_success'] = 'Éxito';
+
+// Text
+$_['text_success']  = '<p>¡Felicidades! ¡Tu cuenta ha sido creada exitosamente!</p> <p>Ahora puede aprovechar los privilegios de los miembros para mejorar su experiencia de compra en línea con nosotros.</p> <p>Si tiene ALGUNA pregunta sobre el funcionamiento de esta tienda en línea, envíe un correo electrónico al administrador.</p> <p> Se ha enviado una confirmación a la dirección de correo electrónico proporcionada. Si no lo ha recibido en una hora, <a href="%s">contáctenos</a>.</p>';
+$_['text_approval'] = '<p>Gracias por registrarse con nosotros %s!</p><p>Será notificado a través de un correo electrónico cuando su cuenta se encuentre verificada por el administrador.</p><p>Si tiene ALGUNA pregunta sobre el funcionamiento de esta tienda en línea, envíe un correo electrónico al administrador.</p> <p> Se ha enviado una confirmación a la dirección de correo electrónico proporcionada. Si no lo ha recibido en una hora, <a href="%s">contáctenos</a>.</p>';
+$_['text_account']  = 'Cuenta';

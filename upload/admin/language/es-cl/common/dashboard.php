@@ -1,4 +1,6 @@
 <?php
+// Heading
+$_['heading_title'] = 'Dashboard';
 
-$_['heading_title'] = 'Panel de control';
-$_['error_install'] = 'Aviso: ¡La carpeta install aún existe y debería borrarla por razones de seguridad!';
+// Error
+$_['error_install'] = 'Advertencia: ¡El directorio de instalación aún existe! Debe ser eliminado por cuestiones de seguridad';

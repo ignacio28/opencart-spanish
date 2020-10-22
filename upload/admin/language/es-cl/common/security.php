@@ -1,19 +1,28 @@
 <?php
+// Heading
+$_['heading_title']    = '¡Notificación de seguridad importante!';
 
-$_['heading_title'] = 'Important Security Notification!';
-$_['text_success'] = 'Éxito: ¡Has modificado la carpeta almacén!';
-$_['text_admin'] = 'Edit admin/config.php and change';
-$_['text_security'] = 'It is very imporant that you move the storage directory outside of the web directory (e.g. public_html, www or htdocs).';
-$_['text_choose'] = 'Choose how to move the storage directory';
-$_['text_automatic'] = 'Mover automáticamente';
-$_['text_manual'] = 'Manually Move';
-$_['text_move'] = 'Mover';
-$_['text_to'] = 'para';
-$_['text_config'] = 'Editar cambio de config.php';
-$_['button_move'] = 'Mover';
-$_['button_manual'] = 'Manual';
+// Text
+$_['text_success']     = 'Éxito: ¡Has modificado la carpeta almacén!';
+$_['text_security']    = 'Es muy importante que mueva el directorio de almacenamiento fuera del directorio web (por ejemplo; public_html, www o htdocs).';
+$_['text_choose']      = 'Elija cómo mover el directorio de almacenamiento';
+$_['text_automatic']   = 'Mover automáticamente';
+$_['text_manual']      = 'Mover manualmente';
+$_['text_move']        = 'Mover';
+$_['text_to']          = 'a';
+$_['text_admin']       = 'En el archivo admin/config.php, reemplace la línea';
+$_['text_config']      = 'En el archivo config.php, reemplace la línea';
+$_['text_by']          = 'por';
+
+// Entry
+$_['entry_directory']  = 'Directorio';
+
+// Button
+$_['button_move']      = 'Mover';
+
+// Error
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el directorio almacén!';
-$_['error_path'] = 'Advertencia: ¡La ruta no es válida!';
-$_['error_directory'] = 'Warning: Invalid directory!';
-$_['error_exists'] = 'Warning: Directory already exists!';
-$_['error_writable'] = 'Advertencia: ¡Se necesita que config.php y admin/config.php se puedan escribir!';
+$_['error_path']       = 'Aviso: ¡La ruta no es válida!';
+$_['error_directory']  = 'Aviso: ¡Directorio no válido!';
+$_['error_exists']     = 'Aviso: ¡El directorio ya existe!';
+$_['error_writable']   = 'Advertencia: ¡Se necesita que config.php y admin/config.php se puedan escribir!';

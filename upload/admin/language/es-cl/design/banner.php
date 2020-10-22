@@ -1,20 +1,28 @@
 <?php
+// Heading
+$_['heading_title']    = 'Banners';
 
-$_['heading_title'] = 'Anuncios';
-$_['text_success'] = 'Éxito: ¡Has modificado el módulo de anuncios!';
-$_['text_list'] = 'Lista de anuncios';
-$_['text_add'] = 'Agregar anuncio';
-$_['text_edit'] = 'Editar el anuncio';
-$_['text_default'] = 'Predeterminado';
-$_['column_name'] = 'Nombre del anuncio';
-$_['column_status'] = 'Estado';
-$_['column_action'] = 'Acción';
-$_['entry_name'] = 'Nombre del anuncio';
-$_['entry_title'] = 'Título';
-$_['entry_link'] = 'Enlace';
-$_['entry_image'] = 'Imagen';
-$_['entry_status'] = 'Estado';
-$_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los anuncios!';
-$_['error_name'] = '¡El nombre del anuncio debe tener de 3 a 64 caracteres!';
-$_['error_title'] = '¡El título del anuncio debe tener de 2 a 64 caracteres!';
+// Text
+$_['text_success']     = 'Éxito: ¡Has modificado los banners!';
+$_['text_list']        = 'Lista de banners';
+$_['text_add']         = 'Añadir Banner';
+$_['text_edit']        = 'Editar Banner';
+$_['text_default']     = 'Predeterminado';
+
+// Column
+$_['column_name']      = 'Nombre del Banner';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acción';
+
+// Entry
+$_['entry_name']       = 'Nombre del Banner';
+$_['entry_title']      = 'Título';
+$_['entry_link']       = 'Enlace';
+$_['entry_image']      = 'Imagen';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de clasificación';
+
+// Error
+$_['error_permission'] = 'Advertencia: ¡No tienes permiso para modificar los banners!';
+$_['error_name']       = '¡El nombre del banner debe tener entre 3 y 64 caracteres!';
+$_['error_title']      = '¡El título del banner debe tener entre 2 y 64 caracteres!';
